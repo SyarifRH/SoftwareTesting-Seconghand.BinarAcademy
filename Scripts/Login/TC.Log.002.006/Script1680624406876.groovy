@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://secondhand.binaracademy.org/')
+
+WebUI.click(findTestObject('Login/Page_SecondHand/Button Masuk'))
+
+WebUI.setText(findTestObject('Login/Page_SecondHand/Input_Email'), 'qa3y')
+
+WebUI.setText(findTestObject('Login/Page_SecondHand/Input_Password'), 'qa3y')
+
+WebUI.click(findTestObject('Login/Page_SecondHand/Button Login Process'))
+
+WebUI.verifyElementPresent(findTestObject('Login/Page_SecondHand/Pesan Message Invalid'), 5)
+
+WebUI.comment('Login Failed')
+
+assert WebUI.verifyElementPresent(findTestObject('Login/Page_SecondHand/Pesan Message Invalid'), 5) == true
+
+WebUI.closeBrowser()
+

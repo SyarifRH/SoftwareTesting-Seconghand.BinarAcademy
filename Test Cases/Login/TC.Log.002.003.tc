@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negatif Case</description>
+   <name>TC.Log.002.003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75c52ae2-707d-4efe-8466-603a0539f106</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ff023fb-ddb8-4fe0-8b07-26d2523e2f1a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6a983bc-d09f-4089-b569-acb407ace63f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ff023fb-ddb8-4fe0-8b07-26d2523e2f1a</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6a983bc-d09f-4089-b569-acb407ace63f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
