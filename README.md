@@ -23,5 +23,5 @@ Automation Used:<br>
 
 Browser For Testing : <br>
 
-\*Google Chrome Version 110.0.5481.178 <br>
+\*Google Chrome Version 112.x.xxxxx.xxx <br>
 
