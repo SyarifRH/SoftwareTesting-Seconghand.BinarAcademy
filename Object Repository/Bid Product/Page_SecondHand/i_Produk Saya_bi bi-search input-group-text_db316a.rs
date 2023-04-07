@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Produk Saya_bi bi-search input-group-text_db316a</name>
+   <tag></tag>
+   <elementGuidId>a1dd5306-6563-4aa9-932c-00c4d37c553e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-search.input-group-text.bg-transparent.border-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/form/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a1657dfa-359e-4654-b806-be27beba2aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-search input-group-text bg-transparent border-0</value>
+      <webElementGuid>394d13b3-7862-49a5-8327-265146433bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/form[@class=&quot;d-flex ms-0 ms-lg-4 my-4 my-lg-0&quot;]/div[@class=&quot;input-group rounded-pill bg-light p-1 search&quot;]/i[@class=&quot;bi bi-search input-group-text bg-transparent border-0&quot;]</value>
+      <webElementGuid>f0c98394-e2fe-4742-a161-800acea9ace0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/form/div/i</value>
+      <webElementGuid>5c883756-9eb0-48f0-8d14-3aca9a283c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>45261dc7-1073-4a58-9825-4e08549014df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
