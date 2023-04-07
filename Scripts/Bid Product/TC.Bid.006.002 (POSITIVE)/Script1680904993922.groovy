@@ -39,12 +39,11 @@ WebUI.click(findTestObject('Object Repository/Bid Product/Page_SecondHand/div_I 
 
 WebUI.click(findTestObject('Object Repository/Bid Product/Page_SecondHand/button_Saya tertarik dan ingin nego'))
 
-WebUI.setText(findTestObject('Object Repository/Bid Product/Page_SecondHand/input_Harga Tawar_offerprice'), '-2000000')
+WebUI.setText(findTestObject('Object Repository/Bid Product/Page_SecondHand/input_Harga Tawar_offerprice'), '')
 
 WebUI.click(findTestObject('Object Repository/Bid Product/Page_SecondHand/input_Password_commit'))
 
-
-if (!WebUI.verifyElementText(findTestObject('Object Repository/Bid Product/Page_SecondHand/h5_I Phone X'), 'I Phone X', FailureHandling.OPTIONAL)) {
+if (WebUI.verifyElementText(findTestObject('Object Repository/Bid Product/Page_SecondHand/h5_I Phone X'), 'I Phone X', FailureHandling.OPTIONAL)) {
     WebUI.comment("Negative Case BERHASIL")
 } else {
     WebUI.comment("Negative Case FAILED")

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Bid.006.002</name>
+   <name>TC.Bid.006.002 (POSITIVE)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>65ea9356-f686-4428-b502-a7ae9b63bdc6</testCaseGuid>

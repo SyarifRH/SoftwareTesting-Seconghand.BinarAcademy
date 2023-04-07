@@ -43,9 +43,11 @@ WebUI.setText(findTestObject('Object Repository/Bid Product/Page_SecondHand/inpu
 
 WebUI.click(findTestObject('Object Repository/Bid Product/Page_SecondHand/input_Password_commit'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Bid Product/Page_SecondHand/h5_I Phone X'), 'I Phone X')
-
-def validate = WebUI.verifyElementText(findTestObject('Object Repository/Bid Product/Page_SecondHand/h5_I Phone X'), 'I Phone X')
-assert validate == true, 'Verification Failed: The product name is not displayed correctly.'
+if (WebUI.verifyElementText(findTestObject('Object Repository/Bid Product/Page_SecondHand/h5_I Phone X'), 'I Phone X', FailureHandling.OPTIONAL)) {
+    WebUI.comment("Positive Case BERHASIL")
+} else {
+    WebUI.comment("Positive Case FAILED")
+    assert false, 'Verification Failed: The product name is not displayed correctly.'
+}
 
 WebUI.closeBrowser()
