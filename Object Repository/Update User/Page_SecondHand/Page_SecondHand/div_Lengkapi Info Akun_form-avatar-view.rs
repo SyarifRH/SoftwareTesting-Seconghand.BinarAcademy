@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lengkapi Info Akun_form-avatar-view</name>
+   <tag></tag>
+   <elementGuidId>0d36a07e-c65d-42f8-bc81-a6efb05f4a70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-avatar-view']
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-avatar-view</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff804234-6b73-4f62-923c-280a4324a5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex justify-content-center</value>
+      <webElementGuid>d5dd5808-3f9d-4efc-9e98-2088ed9a5503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>form-avatar-view</value>
+      <webElementGuid>fb3c239e-c494-4311-a23c-ca1b26650474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-avatar-view&quot;)</value>
+      <webElementGuid>af0acc16-543b-41ed-aab1-ba2e0605a068</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='form-avatar-view']</value>
+      <webElementGuid>0732f87f-d388-4f56-9898-53c0259258cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lengkapi Info Akun'])[1]/following::div[4]</value>
+      <webElementGuid>5b60b01a-0019-4aa1-b972-5b9d952fec9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::div[2]</value>
+      <webElementGuid>e859282b-6a7f-4fdf-8a77-469e669a0ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[1]/preceding::div[3]</value>
+      <webElementGuid>66680107-1f35-42ef-af5a-c0c9db74bd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>0cc79291-031e-4d19-89ac-00a0b83d3df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'form-avatar-view']</value>
+      <webElementGuid>8f7c30b0-c784-4910-b2c7-39a2a3b96f14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

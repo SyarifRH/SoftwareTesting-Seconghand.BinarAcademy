@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://secondhand.binaracademy.org/')
 
 WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/a_Masuk'))
@@ -31,21 +33,23 @@ WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/input_
 
 WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/a_Profil Saya'))
 
-WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/div_QA3Y              Semarang'))
+WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/div_QA3Y              Bandung'))
 
-WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/img_Lengkapi Info Akun_img-thumbnail img-av_2cc814'))
+WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/section_Nama                            Kot_ff7c90'))
 
-WebUI.setText(findTestObject('Object Repository/Update User/Page_SecondHand/input_Nama_username'), 'QA3Y - User')
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Update User/Page_SecondHand/select_Pilih KotaSoloJogjaJakartaBandungSemarang'), 
-    '5', true)
+WebUI.setText(findTestObject('Object Repository/Update User/Page_SecondHand/input_Nama_username'), '')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Update User/Page_SecondHand/select_Pilih KotaSoloJogjaJakartaBandungSemarang'), 
     '4', true)
 
-WebUI.setText(findTestObject('Object Repository/Update User/Page_SecondHand/textarea_Jl. Jalan I'), 'Jl. Jalan II')
+WebUI.selectOptionByValue(findTestObject('Object Repository/Update User/Page_SecondHand/select_Pilih KotaSoloJogjaJakartaBandungSemarang'), 
+    'Pilih Kota', true)
 
-WebUI.setText(findTestObject('Object Repository/Update User/Page_SecondHand/input_No Handphone_userphone_number'), '086473864545')
+WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/section_Nama                            Kot_ff7c90'))
+
+WebUI.setText(findTestObject('Object Repository/Update User/Page_SecondHand/textarea_Jl. Jalan II'), '')
+
+WebUI.setText(findTestObject('Object Repository/Update User/Page_SecondHand/input_No Handphone_userphone_number'), '')
 
 WebUI.click(findTestObject('Object Repository/Update User/Page_SecondHand/input_Password_commit'))
 

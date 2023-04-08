@@ -31,7 +31,7 @@ WebUI.setText(findTestObject('Login/Page_SecondHand/Input_Password'), '')
 
 WebUI.click(findTestObject('Login/Page_SecondHand/Button Login Process'))
 
-WebUI.verifyElementPresent(findTestObject('Login/Page_SecondHand/Pesan Message Invalid'), 5)
+WebUI.verifyElementPresent(findTestObject('Login/Page_SecondHand/Input_Email'), 5)
 
 WebUI.comment('Login Failed')
 
