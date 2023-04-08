@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Update.008.004 (Unsuccess)</name>
+   <name>TC.LogOut.003.002</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>e95cd026-951e-4385-b20d-7cc68a7a665a</testCaseGuid>
+   <testCaseGuid>36efe79d-04e0-4f4c-852e-0dc2fcb72a17</testCaseGuid>
 </TestCaseEntity>
