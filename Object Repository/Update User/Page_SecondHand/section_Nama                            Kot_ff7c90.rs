@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>section</value>
-      <webElementGuid>f4db68e2-52de-48f4-9eae-f72ca7e6c2b9</webElementGuid>
+      <webElementGuid>e47f33f7-1a06-43e4-bcaa-f513215eacb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pt-5 mt-5</value>
-      <webElementGuid>8ae91b84-3717-4727-b671-56cd67774a81</webElementGuid>
+      <webElementGuid>3e962d7b-8cec-4ffd-9cd0-8acc859b0b73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -123,7 +123,7 @@ Semarang
 
 
     </value>
-      <webElementGuid>915f4745-e932-4ee3-9dcc-d98c73aabd2e</webElementGuid>
+      <webElementGuid>f97b6c23-622c-4ef3-b0b8-213b6bb7e10a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@ Semarang
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]</value>
-      <webElementGuid>e4076fa9-291f-4bd5-9c30-9f81c99bcc56</webElementGuid>
+      <webElementGuid>81af934d-ebd0-405a-bbea-797d90f203ca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -139,7 +139,7 @@ Semarang
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lengkapi Info Akun'])[1]/following::section[1]</value>
-      <webElementGuid>e7f410a5-62c5-410d-a3b8-4f36f9c17768</webElementGuid>
+      <webElementGuid>7d16dc32-2db1-4995-9234-4b36873faecd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@ Semarang
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section</value>
-      <webElementGuid>0403c440-97f6-4b23-a119-884ee59c68c2</webElementGuid>
+      <webElementGuid>b28aa15c-f7ff-496a-9e80-60516a88e9d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -325,6 +325,6 @@ Semarang
 
 
     &quot;))]</value>
-      <webElementGuid>67084602-959d-4fcd-8476-2206bd0222ff</webElementGuid>
+      <webElementGuid>c5be1480-9dab-436d-b545-cc082e215dd6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

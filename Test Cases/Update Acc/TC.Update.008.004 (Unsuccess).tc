@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>update neg</name>
+   <name>TC.Update.008.004 (Unsuccess)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4f460141-3192-4b63-84b7-776064f24ec7</testCaseGuid>
+   <testCaseGuid>e95cd026-951e-4385-b20d-7cc68a7a665a</testCaseGuid>
 </TestCaseEntity>

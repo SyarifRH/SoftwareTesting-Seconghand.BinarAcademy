@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b0f0bddf-9428-4ba0-b419-60e2ae06f310</webElementGuid>
+      <webElementGuid>d0087e51-4d28-4399-b95a-d8deabeb07d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>d-flex align-items-center justify-content center flex-column py-2</value>
-      <webElementGuid>bedbd5b4-7cca-432e-b6c3-1fde6431de5a</webElementGuid>
+      <webElementGuid>689e6959-ca66-4295-ac6c-4036ee9d9db4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
               Bandung
             
           </value>
-      <webElementGuid>8f7a7765-a47f-4994-8c60-b1f2acaf9e27</webElementGuid>
+      <webElementGuid>34adae35-3a13-4aa0-8ab2-ce3a687fcc51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown fs-5 d-none d-lg-block&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[1]/a[@class=&quot;nav-user&quot;]/div[@class=&quot;d-flex align-items-center justify-content center flex-column py-2&quot;]</value>
-      <webElementGuid>b6cc34c7-c1c5-4b4a-a319-e24460a75138</webElementGuid>
+      <webElementGuid>7f0c4b71-defa-4cad-8108-e3070132dc2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/ul/li[6]/ul/li/a/div</value>
-      <webElementGuid>a126d835-5a5c-487e-9b8f-44f90b625fe1</webElementGuid>
+      <webElementGuid>710490db-c8a2-45f3-9330-b48cf42a6d49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Saya'])[2]/following::div[1]</value>
-      <webElementGuid>ee526a90-8640-493b-9eab-bc0c0a2dfdae</webElementGuid>
+      <webElementGuid>c3329470-57d3-4b20-a8fa-5fd7279f696e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::div[1]</value>
-      <webElementGuid>887a3c63-3c52-4244-a8a3-817578f461bb</webElementGuid>
+      <webElementGuid>0b2d1207-a348-49b3-ac58-c92d4f5fa8af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>8ac2586d-9058-4bfa-8377-42b0386ca015</webElementGuid>
+      <webElementGuid>d6016053-0119-45f4-b612-30adfffc3fc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
               Bandung
             
           ')]</value>
-      <webElementGuid>57d12859-a41c-4c4a-8c22-6123cffbaad1</webElementGuid>
+      <webElementGuid>f02437bd-f36a-4f78-a77d-5783ac736ab0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
