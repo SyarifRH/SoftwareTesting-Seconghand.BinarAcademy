@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9f37481f-722b-4f7f-a021-d85fc322d11e</webElementGuid>
+      <webElementGuid>bb681b5e-a28f-4cf5-9f8c-e887f694f721</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>6cdbd7d0-32bd-4b3c-9332-cda5e60acbe3</webElementGuid>
+      <webElementGuid>60ab2171-e989-4d21-b487-6e830170a99e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/users/sign_in</value>
-      <webElementGuid>d1f1e995-3142-4f06-af0f-880afc040f58</webElementGuid>
+      <webElementGuid>f9e414ba-2406-474e-a6cb-665da66f0d70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
   
   Masuk
 </value>
-      <webElementGuid>9d4ff80a-8856-4e6f-a9f7-f68986c4ac00</webElementGuid>
+      <webElementGuid>48f261ef-044f-466b-86ae-b90816616724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>606cdb83-52c0-4857-a81f-a0b86380852b</webElementGuid>
+      <webElementGuid>1c9fc2dc-99b6-483c-8580-5ddc29a21474</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/a</value>
-      <webElementGuid>10c7ffdf-6cb4-4dc1-bc46-60fb8d39b3d3</webElementGuid>
+      <webElementGuid>f7a18647-7494-4d6b-818e-dcb59f3ce5f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan RamadhanBanyak diskon!'])[1]/preceding::a[1]</value>
-      <webElementGuid>3e466459-7651-4b8a-8e0c-1aa23e18c57d</webElementGuid>
+      <webElementGuid>2a5fb38f-853f-4fa5-b3d5-92a8e8f88850</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diskon Hingga'])[1]/preceding::a[1]</value>
-      <webElementGuid>a2618586-d78c-48dd-b5ea-6c72c27a8f9a</webElementGuid>
+      <webElementGuid>061565a6-8fa1-4795-a12b-e3f8e8246cdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>8fabd30c-1a7c-4e5f-b0f3-4c1db88eb731</webElementGuid>
+      <webElementGuid>4d42208c-2eeb-44f6-9836-d77847ad0bd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/users/sign_in')]</value>
-      <webElementGuid>ac267f00-987b-41eb-b7d2-195f28b16f18</webElementGuid>
+      <webElementGuid>171c17b6-1f53-4077-84be-c397b55858af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a</value>
-      <webElementGuid>53fd8230-56dc-4bc0-802e-f8bd2311185d</webElementGuid>
+      <webElementGuid>cd3b5d7b-daed-46d9-a798-4f7022d50f74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
   
   Masuk
 ')]</value>
-      <webElementGuid>f819b8c8-3b41-409f-ac50-27d64b6f7400</webElementGuid>
+      <webElementGuid>dafb7b9e-dfd5-4924-8b17-23e6104848ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

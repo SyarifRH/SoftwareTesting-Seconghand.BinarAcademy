@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>6015a468-28ad-4845-aaec-5b2d43fefa1d</webElementGuid>
+      <webElementGuid>9bb6b447-0d68-447d-b33f-336dddc8a37d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>img-thumbnail img-avatar-profile rounded-4 p-0 border-0 overflow-hidden</value>
-      <webElementGuid>dfbfefdc-cc14-4778-a1dd-ff59c298a117</webElementGuid>
+      <webElementGuid>03a9c6f5-53e4-49a8-90ad-ae2ae8d94b63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa4927a607f51975bbadf512a9c07d8318aa057f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLUUFXa0NrQUU9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--68ce5b37660f0527e00bd1e60af75a7b48156984/discussion-rubber-stamp-discussion-rubber-stamp-grunge-design-dust-scratches-effects-can-be-easily-removed-clean-crisp-102004323.jpg</value>
-      <webElementGuid>d501704e-b5dc-4938-b677-c1709a23ea22</webElementGuid>
+      <value>https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlF3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--693ead666140d5051860d7cffbf9c638de385bf3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2h3Ym1jNkZISmxjMmw2WlY5MGIxOXNhVzFwZEZzSGFRS1FBV2tDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--5f30ffda9be2b78c328f306bddb735fb92367c7b/shutterstock_344519003.png</value>
+      <webElementGuid>9892a920-72b2-4687-a269-754e83598d8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-avatar-image&quot;)/img[@class=&quot;img-thumbnail img-avatar-profile rounded-4 p-0 border-0 overflow-hidden&quot;]</value>
-      <webElementGuid>bea90a75-0ed2-4b88-93b1-73e8beaa9436</webElementGuid>
+      <webElementGuid>2f4686c3-0e02-4fc7-9b14-5b704dafe94d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='form-avatar-image']/img</value>
-      <webElementGuid>13e12b5a-07f4-4fa2-9689-9fc79c354c5d</webElementGuid>
+      <webElementGuid>dd59c068-5754-4ca0-a6bb-8f0875ba7617</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[contains(@src,'https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa4927a607f51975bbadf512a9c07d8318aa057f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLUUFXa0NrQUU9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--68ce5b37660f0527e00bd1e60af75a7b48156984/discussion-rubber-stamp-discussion-rubber-stamp-grunge-design-dust-scratches-effects-can-be-easily-removed-clean-crisp-102004323.jpg')]</value>
-      <webElementGuid>09d099d0-4cd3-4030-9704-aa35dde7b524</webElementGuid>
+      <value>//img[contains(@src,'https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlF3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--693ead666140d5051860d7cffbf9c638de385bf3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2h3Ym1jNkZISmxjMmw2WlY5MGIxOXNhVzFwZEZzSGFRS1FBV2tDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--5f30ffda9be2b78c328f306bddb735fb92367c7b/shutterstock_344519003.png')]</value>
+      <webElementGuid>21b5043c-b751-4025-ba23-938d3adaca8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,14 +70,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>0ef59122-7b92-4590-b1dc-7845d7935388</webElementGuid>
+      <webElementGuid>1cc9b0b7-a66e-42e7-9d06-f4f7b5b67cfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa4927a607f51975bbadf512a9c07d8318aa057f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLUUFXa0NrQUU9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--68ce5b37660f0527e00bd1e60af75a7b48156984/discussion-rubber-stamp-discussion-rubber-stamp-grunge-design-dust-scratches-effects-can-be-easily-removed-clean-crisp-102004323.jpg']</value>
-      <webElementGuid>8a84e224-9e74-4f33-b0f1-5def043dd301</webElementGuid>
+      <value>//img[@src = 'https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlF3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--693ead666140d5051860d7cffbf9c638de385bf3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2h3Ym1jNkZISmxjMmw2WlY5MGIxOXNhVzFwZEZzSGFRS1FBV2tDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--5f30ffda9be2b78c328f306bddb735fb92367c7b/shutterstock_344519003.png']</value>
+      <webElementGuid>76b01792-5167-4f89-b655-1b35a02ceba1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

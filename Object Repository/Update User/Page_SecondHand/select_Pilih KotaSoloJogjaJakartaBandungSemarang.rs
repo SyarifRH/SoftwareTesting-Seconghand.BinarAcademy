@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>f00f5d82-f8e9-4dd2-a143-ce37fd2d13e6</webElementGuid>
+      <webElementGuid>37af11ed-cdf6-4b5a-a2ef-419cd76ffd54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select rounded-4 p-3</value>
-      <webElementGuid>3535cedf-5176-46b2-8493-931d9740316e</webElementGuid>
+      <webElementGuid>82bafd87-a23a-4611-acf5-7d278f83cbf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>c6322419-4950-4c08-86bc-e963c1894699</webElementGuid>
+      <webElementGuid>faa327ec-0f83-42ae-9712-bb87a70d6770</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user[city_id]</value>
-      <webElementGuid>a2cd15c4-6bb7-4ee5-8a20-e5ad1a190eb4</webElementGuid>
+      <webElementGuid>8dd39eb3-4f82-40cb-b862-130484c4bd63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>user_city_id</value>
-      <webElementGuid>849eb7e1-cdec-4e6b-95ca-3cfbce389cc3</webElementGuid>
+      <webElementGuid>2639266f-8ab9-4fd4-b729-bf75915e65b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@ Jogja
 Jakarta
 Bandung
 Semarang</value>
-      <webElementGuid>8aeaa988-b648-467e-a67b-d877ec3e12d5</webElementGuid>
+      <webElementGuid>6d31bb38-2ac2-46f0-9734-7cdce18bbbea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@ Semarang</value>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user_city_id&quot;)</value>
-      <webElementGuid>27e27e18-b30b-4c35-a035-ccc097c96628</webElementGuid>
+      <webElementGuid>75ff8572-34ca-4c83-88c8-1def3fd0a345</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +83,7 @@ Semarang</value>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='user_city_id']</value>
-      <webElementGuid>07051598-84ba-4c8d-ac2b-25e4a8795bf5</webElementGuid>
+      <webElementGuid>bf7f3a05-50a1-4a5f-b7b6-5e7f540cee97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@ Semarang</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[1]/following::select[1]</value>
-      <webElementGuid>b11cec06-3519-484d-b3fe-39b5f22083d6</webElementGuid>
+      <webElementGuid>9f901733-d9f5-4c48-9694-5c123c2a04c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@ Semarang</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/following::select[1]</value>
-      <webElementGuid>b9fb4177-47d0-46e8-9175-28316d3e0d66</webElementGuid>
+      <webElementGuid>0c1e2414-eff9-43e0-bc87-bee266696b98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@ Semarang</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[1]/preceding::select[1]</value>
-      <webElementGuid>0c7005a1-c42f-4dfd-ae49-bdd8138df679</webElementGuid>
+      <webElementGuid>f44a3ee1-d299-434a-9e7d-32e81774ed3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@ Semarang</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jl. Jalan II'])[1]/preceding::select[1]</value>
-      <webElementGuid>7acabe6f-c3cc-44dc-a75f-136ec8ad234e</webElementGuid>
+      <webElementGuid>b26a6b50-92a5-4c44-bf1b-8a73697f09d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@ Semarang</value>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>69828dc4-cdae-4ee9-a5be-a5c6a95f3d7e</webElementGuid>
+      <webElementGuid>5688bfe4-430b-494e-aa39-7d0ea82e0166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@ Jogja
 Jakarta
 Bandung
 Semarang')]</value>
-      <webElementGuid>165057a1-73bd-4b77-87c8-ae1f8d06e9ce</webElementGuid>
+      <webElementGuid>b1cf6855-8a61-4c51-9607-3511ab18b11b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

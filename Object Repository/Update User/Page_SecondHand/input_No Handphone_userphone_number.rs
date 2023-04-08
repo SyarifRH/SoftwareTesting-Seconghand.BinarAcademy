@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f61f81fe-daac-47f1-9dad-1e23bd1d2ff5</webElementGuid>
+      <webElementGuid>111b199f-8665-448d-aba2-920705f3c754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control rounded-4 p-3</value>
-      <webElementGuid>63eff4f8-ab62-46c1-96b9-e1ffae988a1c</webElementGuid>
+      <webElementGuid>98da4139-3039-4bf5-937d-42a859fd9192</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>contoh: +628123456789</value>
-      <webElementGuid>aa4d7983-b925-4dd6-bdbf-606d0a1a99d1</webElementGuid>
+      <webElementGuid>4559e126-88c1-4f3c-973a-3d4bdb560ec4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>63e5a452-1280-4c61-925e-62bee4dcc70e</webElementGuid>
+      <webElementGuid>e31ea7ec-c11f-48b5-a5f8-e7404a821d46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>72db83a2-6758-4fac-a582-904a0bd9f771</webElementGuid>
+      <webElementGuid>b639426a-54ab-4180-818d-ec1913b8d86e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>08haloges</value>
-      <webElementGuid>51152c98-da6b-4761-a6e1-6f01e082b255</webElementGuid>
+      <webElementGuid>595afcce-dccc-4b5c-a568-9914a767e36a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user[phone_number]</value>
-      <webElementGuid>593c77fd-7d25-4477-a77e-34b0d360483f</webElementGuid>
+      <webElementGuid>742f6201-e40c-4020-afa0-28cbd7fdc3a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>id</name>
       <type>Main</type>
       <value>user_phone_number</value>
-      <webElementGuid>21bc164b-8a01-4c71-b470-892be324ec16</webElementGuid>
+      <webElementGuid>f28a79f4-c295-455d-84d7-026fa223cabd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user_phone_number&quot;)</value>
-      <webElementGuid>bae21eb9-9809-436c-a387-f1fed6d82025</webElementGuid>
+      <webElementGuid>7af8317e-4320-4954-96b5-5cf681212c00</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='user_phone_number']</value>
-      <webElementGuid>cfb3952f-b124-4ff5-8d0e-1579da7a55c0</webElementGuid>
+      <webElementGuid>a8522256-7519-4b83-9238-a61a7729d2cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/input</value>
-      <webElementGuid>b7bdd72f-998a-462d-9258-aea6167b4b62</webElementGuid>
+      <webElementGuid>7d0a8270-6ef8-4aa3-90ef-5b231b065846</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'contoh: +628123456789' and @type = 'text' and @name = 'user[phone_number]' and @id = 'user_phone_number']</value>
-      <webElementGuid>cb7babe8-e039-45e1-a1ed-f84bf0e0119b</webElementGuid>
+      <webElementGuid>e60c6dcc-3c5b-41b0-bf05-b027faed0dc9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
