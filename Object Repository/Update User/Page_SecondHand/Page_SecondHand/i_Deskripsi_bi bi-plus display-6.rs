@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Deskripsi_bi bi-plus display-6</name>
+   <tag></tag>
+   <elementGuidId>ed1d9628-129c-4ab9-94f9-61cc35d265c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-plus.display-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='input-images']/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2d894e78-cda5-4b7c-a27d-ea8982362b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-plus display-6</value>
+      <webElementGuid>4b21d555-066e-46e3-9d64-a81683f8ed39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-images&quot;)/div[@class=&quot;form-image rounded-4 img-preview&quot;]/i[@class=&quot;bi bi-plus display-6&quot;]</value>
+      <webElementGuid>bede415a-d841-4f72-918a-33a9aca65ee5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='input-images']/div/i</value>
+      <webElementGuid>44e49556-b995-4cfd-982c-da4fc7684933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/i</value>
+      <webElementGuid>4e559c0d-28c5-46b5-8a86-cd7e888d93fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

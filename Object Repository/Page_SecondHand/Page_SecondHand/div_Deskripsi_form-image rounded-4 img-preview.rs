@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deskripsi_form-image rounded-4 img-preview</name>
+   <tag></tag>
+   <elementGuidId>fb3f732d-3bee-47f6-a917-69ae3387dc4e</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_SecondHand/div_Deskripsi_form-image rounded-4 img-preview.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-image.rounded-4.img-preview</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_SecondHand/div_Deskripsi_form-image rounded-4 img-preview.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='clickFileInput(this)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ec832cd-0a08-4ec0-b18f-74265b175780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-image rounded-4 img-preview</value>
+      <webElementGuid>b9a98ec4-5399-4ea0-b8b2-290d60aaf499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>clickFileInput(this)</value>
+      <webElementGuid>a03e1000-6317-4cd3-9446-5694e9e6cae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-images&quot;)/div[@class=&quot;form-image rounded-4 img-preview&quot;]</value>
+      <webElementGuid>d848d1d2-927f-4a53-8c00-2c9224f25d1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='clickFileInput(this)']</value>
+      <webElementGuid>dee5ad2c-f28a-4fa7-ae7b-1e2dd568a907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='input-images']/div</value>
+      <webElementGuid>541a59f8-ba1c-40c9-8842-3e844d89efee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/following::div[2]</value>
+      <webElementGuid>21e83346-533d-455a-a1da-21cef93ba483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::div[3]</value>
+      <webElementGuid>21a457a8-3ba8-445c-9a4d-17f79d9a8bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/preceding::div[1]</value>
+      <webElementGuid>1f939011-bfbd-496f-95d8-dba65dc2e69f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbitkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>d1c5533a-523a-40c5-98a7-c5845fdd3197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div</value>
+      <webElementGuid>1d3edff2-ee67-471b-85b5-d19fa333683e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

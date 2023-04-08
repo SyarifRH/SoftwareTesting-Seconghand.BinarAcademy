@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deskripsi_form-image rounded-4 img-preview</name>
+   <tag></tag>
+   <elementGuidId>e166f458-e004-4ff1-af06-d847330a81b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-image.rounded-4.img-preview</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='clickFileInput(this)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4665bb26-c963-4c22-857b-99c71f1f520d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-image rounded-4 img-preview</value>
+      <webElementGuid>571655ea-b204-4ba1-b897-e8c2878a03b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>clickFileInput(this)</value>
+      <webElementGuid>5baf33c2-03e8-44f5-b0ff-0d43cf120b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-images&quot;)/div[@class=&quot;form-image rounded-4 img-preview&quot;]</value>
+      <webElementGuid>64e6dcbb-50d1-4441-bab3-d3f0fb133329</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='clickFileInput(this)']</value>
+      <webElementGuid>36d10c77-93eb-492b-a7b6-5c0224741434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='input-images']/div</value>
+      <webElementGuid>e0629878-7351-490e-bdc7-8253f07f5888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/following::div[2]</value>
+      <webElementGuid>3d1edfd1-7a7d-4cc0-9f95-e471cb7dfbc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::div[3]</value>
+      <webElementGuid>3b48abad-6db3-44af-b90d-0428bc977c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/preceding::div[1]</value>
+      <webElementGuid>b9e3da81-ee41-4233-b5ed-f6959a8d9690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbitkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>7d4fb890-e231-4d23-ad03-725287697bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div</value>
+      <webElementGuid>dcaec951-382b-4f11-ba17-84a82259568c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
